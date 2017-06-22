@@ -1,6 +1,6 @@
 {
   "name": "wsse-light",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Web Services Security Extension (WSSE) Username Authentication Token",
   "author": "Sykchin Artem <anydasa@gmail.com>",
   "license": "MIT",
